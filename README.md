@@ -9,7 +9,7 @@
 ## Accessible:
 Go to: https://agavili-amazon-scraper.herokuapp.com
 
-## Available of RapidAPI Marketplace
+## Available on RapidAPI Marketplace
 
 https://rapidapi.com/ag5yy/api/agavili-amazon-data-scraper
 
